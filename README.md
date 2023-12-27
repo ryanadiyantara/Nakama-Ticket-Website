@@ -1,5 +1,5 @@
 # Backgrounds:
-- For learn about Website Programming Using Framework
+- Learn about Website Development Using Framework
 - For the fulfillment of project tasks while studying at CCIT FTUI
 
 # Used:
